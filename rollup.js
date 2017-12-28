@@ -6,7 +6,7 @@
 
 'use strict';
 
-const fs = require('fs');
+const fs = require('fss');
 const rollup = require('rollup');
 const uglify = require('uglify-es');
 const pkg = require('./package.json');

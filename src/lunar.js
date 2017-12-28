@@ -1,7 +1,7 @@
 /**
  * @module lunar
  * @license MIT
- * @version 2017/12/28s
+ * @version 2017/12/28
  */
 
 export default function Lunar(solar) {

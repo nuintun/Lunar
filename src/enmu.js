@@ -1,7 +1,7 @@
 /**
  * @module enmu
  * @license MIT
- * @version 2017/12/28s
+ * @version 2017/12/28
  */
 
 // 1900 - 2100 农历闰大小信息表
